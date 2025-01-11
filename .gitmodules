@@ -1,0 +1,6 @@
+[submodule "amber-backend"]
+	path = amber-backend
+	url = https://github.com/anuragdaksh7/Amber-backend.git
+[submodule "amber-frontend"]
+	path = amber-frontend
+	url = https://github.com/anuragdaksh7/Amber-frontend.git
